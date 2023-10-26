@@ -1,0 +1,8 @@
+- The text provides information on fair value measurement at the end of 2022.
+- It includes a breakdown of derivatives valued at fair value over the result, categorized into Level 1, Level 2, and Level 3.
+- Energy derivatives, both long-term and short-term assets and liabilities, are listed with their respective fair values.
+- Net energy derivatives value is calculated.
+- Similar information is provided for interest rate derivatives and other financial assets valued at fair value over the result.
+- The fair value of derivatives is further divided by time periods, including 2023 to after 2027.
+- The value of positive and negative market value energy derivatives and a positive market value interest rate swap per time period is provided.
+- The text also mentions the Skagerak Energi Annual Report 2022.

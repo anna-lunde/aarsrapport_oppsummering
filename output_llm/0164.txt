@@ -1,0 +1,59 @@
+The text provides information about the fixed assets of Skagerak Energi AS, specifically related to construction projects, buildings, real estate, and movable assets. Here are the key points summarized in bullet points:
+
+2022:
+- Balance carried forward on January 1: 
+  - Construction projects: NOK 17,741,166
+  - Buildings, real estate, and movable assets: NOK 961,184,701
+
+- Additions during the year: 
+  - Construction projects: NOK 38,671
+  - No additions for buildings, real estate, and movable assets
+
+- Transfers between asset groups: 
+  - Construction projects: NOK -24,968
+  - No transfers for buildings, real estate, and movable assets
+
+- Disposals during the year: 
+  - Construction projects: NOK -6,998
+  - No disposals for buildings, real estate, and movable assets
+
+- Depreciation: 
+  - Construction projects: NOK -25,925
+  - Buildings, real estate, and movable assets: NOK -25,925
+
+- Accumulated depreciation and impairment losses on disposals: 
+  - Construction projects: NOK 6,987
+  - No accumulated depreciation for buildings, real estate, and movable assets
+
+- Balance carried forward on December 31: 
+  - Construction projects: NOK 31,443,165
+  - Buildings, real estate, and movable assets: NOK 993,197,436
+
+2021:
+- Balance carried forward on January 1: 
+  - Construction projects: NOK 10,561,177
+  - Buildings, real estate, and movable assets: NOK 464,188,024
+
+- Additions during the year: 
+  - Construction projects: NOK 23,191
+  - No additions for buildings, real estate, and movable assets
+
+- Transfers between asset groups: 
+  - Construction projects: NOK -16,011
+  - No transfers for buildings, real estate, and movable assets
+
+- Disposals during the year: 
+  - Construction projects: NOK -3,892
+  - No disposals for buildings, real estate, and movable assets
+
+- Depreciation: 
+  - Construction projects: NOK -25,025
+  - Buildings, real estate, and movable assets: NOK -25,025
+
+- Accumulated depreciation and impairment losses on disposals: 
+  - Construction projects: NOK 2,404
+  - No accumulated depreciation for buildings, real estate, and movable assets
+
+- Balance carried forward on December 31: 
+  - Construction projects: NOK 17,741,166
+  - Buildings, real estate, and movable assets: NOK 166,961,184

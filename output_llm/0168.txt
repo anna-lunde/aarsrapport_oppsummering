@@ -1,0 +1,6 @@
+- Skagerak has balance sheet leases in accordance with IFRS 16
+- Skagerak Energi has lease agreements for various assets, including land, office buildings, and movable property
+- The balance sheet value of these lease agreements as of January 1, 2022, was 7,203,121,238
+- New contracts valued at 920 were added during the year, and there were adjustments due to index regulation and other changes in lease contracts
+- The depreciation of lease assets during the year was 1,442,318,115
+- The balance sheet value of these lease agreements as of December 31, 2022, was 6,130,103,349,805

@@ -1,0 +1,8 @@
+- Skagerak Energy optimizes its long-term power production by allocating physical water resources in relation to spot prices.
+- The company's sales revenue from power production in 2022 was negative, at -320,141 NOK, and in 2021 it was -163,016 NOK.
+- The sales revenue includes production at spot prices, industrial contracts, concession power, and other net income from power sales.
+- Green certificates contributed to the sales revenue in 2022, totaling 7,623,720 NOK.
+- Energy purchases amounted to 7,303,579 NOK in 2022, and 5,013,824 NOK in 2021.
+- The company has long-term delivery obligations for concession power, with a quantity of 0.4 TWh annually.
+- Skagerak needs to determine whether it acts as a principal or agent regarding these delivery obligations.
+- The net income from sales and purchases is shown in the table provided.

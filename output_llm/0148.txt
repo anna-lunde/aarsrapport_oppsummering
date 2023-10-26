@@ -1,0 +1,34 @@
+- The text contains notes related to various aspects of Skagerak Energi's financial statements.
+- Note 1: Results by business area
+- Note 2: Sales revenues from power
+- Note 3: Storage and production
+- Note 4: Grid revenues
+- Note 5: Other operating revenues
+- Note 6: Salaries and other personnel expenses
+- Note 7: Regulatory expenses
+- Note 8: Other operating expenses
+- Note 9: Financial expenses
+- Note 10: Taxes
+- Note 11: Results of related parties
+- Note 12: Intangible assets
+- Note 13: Tangible fixed assets
+- Note 14: Lease agreements
+- Note 15: Investments in subsidiaries and associates
+- Note 16: Financial instruments
+- Note 17: Financial assets and liabilities
+- Note 18: Pension liabilities
+- Note 19: Other financial assets
+- Note 20: Receivables
+- Note 21: Cash and cash equivalents
+- Note 22: Equity
+- Note 23: Other provisions and liabilities
+- Note 24: Interest-bearing long-term debt
+- Note 25: Pledges and guarantees
+- Note 26: Interest-bearing short-term debt
+- Note 27: Other non-interest-bearing short-term debt
+- Note 28: Related party balances
+- Note 29: Market and financial risk
+- Note 30: Significant events and other matters
+- Note 31: Subsequent events after the balance sheet date
+
+This is a list of the various notes included in Skagerak Energi's annual report for 2022. Each note provides detailed information on specific financial aspects of the company.

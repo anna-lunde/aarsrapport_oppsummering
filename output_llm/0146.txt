@@ -1,0 +1,5 @@
+- Changes in assumptions and underlying data leading up to the balance sheet date will not have a significant impact on the figures.
+- The discount rate is based on preferred securities (OMF) in a sufficiently deep and liquid market with relevant maturities that qualify as a reference rate according to IAS 19.
+- Note 18 provides further information on pensions, including the sensitivity of calculations to key assumptions.
+- No new standards have been implemented in 2022.
+- Changes to existing standards do not have a significant impact on the financial statements in 2022.

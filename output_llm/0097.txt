@@ -1,0 +1,7 @@
+- Skagerak Energi og other norske virksomheter har økt årvåkenhet innen informasjonssikkerhet
+- Hyppige beredskapsmøter og intensivert dialog med sikkerhetsmyndighetene i 2022
+- Innføring av flere sikkerhetsbarrierer i systemene for bedre beskyttelse mot dataangrep
+- Intensivering av arbeidet med sikkerhetskultur og opplæring innen datasikkerhet
+- Digital utpressing og alvorlige trusler som terror og sabotasje er fortsatt en trussel
+- Advarsel om økt risiko for mobilkapring (spoofing) og phishing
+- Økt bevissthet rundt disse fenomenene, også i samarbeid med KraftCERT og NVE

@@ -1,0 +1,17 @@
+- Skagerak Energi has reserves for obligations amounting to 303,852 in 2022 and 304,183 in 2021
+- Obligations for fall rights amounted to 408,378 in 2022 and 340,903 in 2021
+- Other reserves for obligations amounted to 469 in 2022 and 1,120 in 2021
+- Total reserves for obligations amounted to 469 in 2022 and 1,120 in 2021
+
+- In terms of fall rights and other reserves for obligations:
+   - Skagerak Energi had an opening balance of 0 for both types of obligations in 2022
+   - No amounts were used during the period for fall rights, resulting in an outgoing balance of 0 in 2022
+   - 469 was used for other obligations, resulting in an outgoing balance of 469 in 2022
+
+- In terms of legal obligations and other obligations at Group level:
+   - The opening balance for legal obligations was 537,644 and for other obligations was 549,645,086 in 2022
+   - New provisions of 10,000 were made in the period for other obligations, resulting in an outgoing balance of 10,000 in 2022
+   - Amounts used during the period were 537 for legal obligations and 11,741 for other obligations, resulting in an outgoing balance of 702,230 for other obligations in 2022
+
+- Other obligations mainly include obligations related to fall rights and deferred recognition of capital contributions
+- Fall rights are perpetual, while capital contributions are recognized over the corresponding asset's useful life.

@@ -1,0 +1,13 @@
+- The text is about lease obligations and cash flows related to lease payments.
+- The company Skagerak Energi AS has lease obligations for various time periods.
+- The undiscounted lease obligations for 2022 and 2021 are as follows:
+  - 0-1 year: 32,530 in 2022 and 30,836 in 2021
+  - 1-5 years: 107,494 in 2022 and 122,900 in 2021
+  - 5 years and beyond: 245,004 in 2022 and 263,286 in 2021
+  - Total undiscounted lease obligations per 31.12: 126,283 in 2022 and 147,458 in 2021
+- Skagerak Energi AS leases out office spaces and categorizes these contracts as operational lease agreements.
+- The table shows a schedule of undiscounted lease payments, categorized by time period:
+  - 0-1 year: 601,717 in 2022 and 601,717 in 2021
+  - 1-5 years: 0 in all years
+  - 5 years and beyond: 0 in all years
+  - Total undiscounted lease payments per 31.12: 601,717 in 2022 and 169 in 2021.

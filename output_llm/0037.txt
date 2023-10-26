@@ -1,0 +1,11 @@
+- Lede has a high focus on sustainability
+- Three priority areas for sustainability: sustainable network standards, increased reuse of components, and reducing power loss
+- Drones are being used in Lede for environmental and safety benefits
+- Lede aims to gradually replace their vehicle fleet with electric or biogas vehicles to become climate neutral
+- Bids over 500,000 NOK use sustainability and environmental criteria
+- Waste sorting rate was 89.2% in 2022
+- Lede ensures compliance with regulations through good dialogue with authorities and highly skilled employees
+- In 2022, the average power outage for Lede's customers was 63 minutes, below the national average
+- The main causes of power supply interruptions are high voltage faults due to tree falls, transportation issues, human error, and planned stops for necessary work in the facilities
+- There were four yellow alerts and one red alert due to bad weather, as well as two red alerts due to network breakdowns
+- The cost of non-delivered energy (KILE) was 35 million NOK in 2022.

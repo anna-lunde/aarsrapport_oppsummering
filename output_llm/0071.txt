@@ -1,0 +1,8 @@
+- Economic activity data provided in millions of kroner
+- Breakdown of net operating income, investments, and operating costs for various categories of activities related to electricity production and distribution
+- Specific details on electricity production from hydropower, electricity transformation and distribution, distribution of district heating/cooling, installation and operation of electric heat pumps, production of heat/cooling from bioenergy and waste heat
+- Total figures for activities that meet taxonomy requirements and activities that are covered but do not meet taxonomy requirements
+- Separate figures for activities not covered by the taxonomy
+- Overall totals for activities covered by the taxonomy and those not covered
+- Summary of proportions of activities that align with criteria and those that do not
+- Mention of social responsibility and sustainability.

@@ -1,0 +1,15 @@
+- Total assets for Skagerak Energi AS as of December 31, 2022, are 10,743,690,000 NOK
+- Anleggsmidler (fixed assets) are 10,511,758,000 NOK
+- Utsatt skattefordel (deferred tax assets) are 211,153,000 NOK
+- Immaterielle eiendeler (intangible assets) are 0 NOK
+- Varige driftsmidler (tangible fixed assets) are 14,307,720,000 NOK
+- Investering i datter- og tilknyttede selskaper (investment in subsidiaries and associated companies) are 5,021,639,000 NOK
+- Derivater (derivatives) are 0 NOK
+- Pensjonmidler (pension assets) are 555,709,000 NOK
+- Øvrige finansielle anleggsmidler (other financial fixed assets) are 4,415,537,000 NOK
+- Omløpsmidler (current assets) are 231,931,000 NOK
+- Beholdninger (inventories) are 0 NOK
+- Fordringer (receivables) are 28,043,316,000 NOK
+- Derivater (derivatives) are 0 NOK
+- Fordring konsernkontoordning (intercompany account receivable) is 28,188,000 NOK
+- Bankinnskudd og kontanter (bank deposits and cash) is 472,122,000 NOK

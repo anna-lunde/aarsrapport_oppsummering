@@ -1,0 +1,5 @@
+.env
+env/
+certs/
+lede_årsrapport/ledechat/__pycache__
+.DS_Store

@@ -1,0 +1,8 @@
+- Number of power outages per end user: 1.0 in 2022, 1.2 in 2021, 1.3 in 2020, 1.0 in 2019, 2.2 in 2018, 1.4 in 2017, 1.3 in 2016, 1.5 in 2015, 1.8 in 2014.
+- Delivered heat in GWh (renewable share): 171 in 2022, 138 in 2021, 155 in 2020, 135 in 2019, 151 in 2018, 141 in 2017, 120 in 2016, 115 in 2015, 88 in 2014, with a long-term goal of 100% renewable.
+- Number of damages to own employees: 0 in 2022, 4 in 2021, 5 in 2020, 1 in 2019, 6 in 2018, 2 in 2017, 2 in 2016, 4 in 2015, 7 in 2014.
+- Sick leave rate: 3% in 2022, 3.8% in 2021, 2.9% in 2020, 3.1% in 2019, 2.9% in 2018, 3.6% in 2017, 4.3% in 2016, 3.1% in 2015, 3.7% in 2014.
+- Waste sorting rate: 87% or higher in 2022, 86% in 2021, 89% in 2020, 87% in 2019, 86% in 2018, 87% in 2017, 80% in 2016, 85% in 2015, 65% in 2014.
+- CO2 equivalent emissions: 0 tons in 2022, 2742 tons in 2021, 2266 tons in 2020, 2004 tons in 2019, 2845 tons in 2018, 2266 tons in 2017, 2104 tons in 2016, 1763 tons in 2015, 1987 tons in 2014.
+- Number of serious environmental violations: 0 in 2022, 3 in 2021, 0 in 2020, 0 in 2019, 0 in 2018, 0 in 2017, 0 in 2016, 0 in 2015, 0 in 2014.
+- Key focus areas: Infrastructure, Business development, Transition, Renewable energy, Energy efficiency, Human development, Green future, Reliable partner, Sustainable value creation, Nature conservation, Entrepreneurship, Productivity, Resource utilization, Chemicals, Waste, Procurement.

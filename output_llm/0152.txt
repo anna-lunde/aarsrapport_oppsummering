@@ -1,0 +1,24 @@
+- Balance as of December 31, 2021
+- Business areas: Power production, Net business, District heating, Skagerak Energy Partner, Other
+- Total fixed assets: 12,480,758
+- Investment in associated companies and joint ventures: 113,255
+- Investment in subsidiaries: -5,021,639
+- Other fixed assets: 1,259,380
+- Total current assets: 4,067,877
+- Total assets: 17,921,270
+- Total equity: 10,164,339
+- Interest-bearing long-term debt: 2,508,400
+- Other long-term liabilities: 1,231,910
+- Total long-term liabilities: 3,740,310
+- Interest-bearing short-term debt: 668,234
+- Other short-term liabilities: 3,348,388
+- Total short-term liabilities: 4,016,621
+- Total equity and liabilities: 17,921,270
+- Investments in increased capacity: 331,873
+- Maintenance investments: 560,900
+- Other investments in fixed assets: 110,018
+- Investment in subsidiaries: 75,477
+- Investment in associated companies: 10,000
+- Investment in financial assets: 7,823
+- Total investments in 2021: 1,096,092
+- Working capital: 9,537,705

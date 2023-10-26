@@ -1,0 +1,10 @@
+- Skagerak Energi AS is a Norwegian company owned by Statkraft Industrial Holding AS, Skien Kommune, Porsgrunn Kommune, and Bamble Kommune.
+- Skagerak Energi AS follows the International Financial Reporting Standards (IFRS) for its financial reporting.
+- The company uses simplified measurement and recognition rules for certain assets and depreciation methods.
+- The financial statements include comparative figures for the previous year.
+- The consolidated financial statements show the financial results and position of Skagerak Energi AS and its controlled subsidiaries.
+- Transactions between the subsidiaries and eliminations of intercompany transactions are included in the consolidated financial statements.
+- Acquisitions are recorded at the transaction date, and identifiable assets, liabilities, and contingent liabilities are recorded at their fair value.
+- Investments in associated companies are treated using the equity method.
+- Purchases of associated companies are recorded at cost.
+- The company's share of the associated company's profit, adjusted for depreciation and differences in accounting principles, is shown separately in the consolidated financial statements.

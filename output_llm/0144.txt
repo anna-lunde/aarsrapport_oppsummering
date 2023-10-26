@@ -1,0 +1,9 @@
+- Ytelsesplaner er pensjonsordninger som fastsetter den pensjonsutbetaling en ansatt vil motta ved pensjonering, vanligvis som en andel av den ansattes lønn
+- Balanseført forpliktelse knyttet til ytelsesplaner er nåverdien av framtidige pensjonsytelser redusert for virkelig verdi av pensjonsmidlene
+- Innskuddsplaner er pensjonsordninger hvor selskapene betaler faste bidrag uten ytterligere forpliktelser etter betalingen
+- Lagerbeholdning og reservedeler klassifiseres som omløpsmidler og vurderes etter FIFO-til-laveste verdi-prinsipp
+- Kontanter og bankinnskudd inkluderer kontanter, bankinnskudd og andre betalingsmidler med forfallsdato kortere enn tre måneder
+- Bankinnskudd og kontanter reflekterer at de fleste bankkonti er tilknyttet en konsernkontoordning eid av Statkraft AS
+- Foreslått utbytte og konsernbidrag er klassifisert som egenkapital
+- Avsetning innregnes bare når det er en eksisterende plikt som er resultat av en tidligere hendelse og det er sannsynlig at det vil kreve økonomiske ressurser for å dekke forpliktelsen
+- Usikre forpliktelser balanseføres bare hvis det eksisterer en juridisk eller faktisk plikt, nødvendige estimater er tilgjengelige, og det kan påvises at denne forpliktelsen vil ha økonomiske konsekvenser

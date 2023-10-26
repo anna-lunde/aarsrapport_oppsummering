@@ -1,0 +1,9 @@
+- Skagerak Energi AS has financial instruments including derivatives.
+- Derivative assets include interest rate swap agreements and energy derivatives.
+- The fair value of derivative assets for the long-term is 0 in 2022 and 2021.
+- Derivative assets for the short-term include interest rate swap agreements and energy derivatives.
+- The fair value of short-term derivative assets is 0 in 2022 and 2021.
+- Derivative liabilities for the long-term include interest rate swap agreements and energy derivatives.
+- The fair value of long-term derivative liabilities is 0 in 2022 and 2021.
+- Derivative liabilities for the short-term include interest rate swap agreements and energy derivatives.
+- The fair value of short-term derivative liabilities is 0 in 2022 and 2021.

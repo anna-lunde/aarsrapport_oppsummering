@@ -1,0 +1,6 @@
+- Skagerak is exposed to various types of risks, including market risk, financial risk, and operational risk.
+- Market risk is mainly associated with the production and trading of electricity, with variations in price and production capacity affecting the company's results.
+- Skagerak has a financial strategy to manage interest rate risk, with a target duration of 2 to 5 years and a minimum of 25% and maximum of 75% of interest-bearing debt with a maturity of over one year. Long-term interest rates are primarily between 5 to 15 years.
+- Skagerak is indirectly exposed to currency risk through the sale of electricity on the Nord Pool exchange, which is priced in Euros. However, the company does not hedge this exposure.
+- The company's financing needs are covered by Statkraft, and the terms and conditions are outlined in strategy documents and a framework agreement between Statkraft and Skagerak.
+- Details of the maturity structure of interest-bearing debt to Statkraft, lease obligations, and derivative agreements are provided in the relevant notes.

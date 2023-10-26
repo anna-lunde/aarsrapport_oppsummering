@@ -1,0 +1,13 @@
+- The specification of pension costs for Skagerak Energi AS in 2022 includes the following:
+   - Benefit plans: NOK 49,845 in 2022 and NOK 44,067 in 2021
+   - Present value of earned pension rights: NOK 10,682 in 2022 and NOK 9,604 in 2021
+   - Interest costs on pension obligations: NOK 15,596 in 2022 and NOK 11,078 in 2021
+   - Gross pension costs: NOK 26,278 in 2022 and NOK 20,682 in 2021
+   - Plan changes and regulation adjustments resulted in changes in costs
+   - Net pension costs for benefit plans: NOK 27,360 in 2022 and NOK 3,461 in 2021
+   - Contribution plans: NOK 21,572 in 2022 and NOK 18,781 in 2021
+   - Total pension costs: NOK 35,124 in 2022 and NOK 9,381 in 2021
+- The total number of members in the scheme for Skagerak Energi AS as of December 31, 2022, was 370 for benefit plans and 335 for contribution plans.
+- Economic assumptions for December 31, 2022, include an annual discount rate of 3.10%, wage growth of 3.50%, regulation of current pensions by 2.60%, and expected return on investments of 3.10%.
+- Sensitivity analysis shows the impact of 1% changes in selected parameters on pension accrual and net pension obligations.
+- The report includes the board's statement and financial accounts.

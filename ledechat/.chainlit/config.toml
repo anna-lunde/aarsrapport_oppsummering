@@ -1,0 +1,62 @@
+[project]
+# Whether to enable telemetry (default: true). No personal data is collected.
+enable_telemetry = false
+
+# List of environment variables to be provided by each user to use the app.
+user_env = []
+
+# Duration (in seconds) during which the session is saved when the connection is lost
+session_timeout = 3600
+
+# Enable third parties caching (e.g LangChain cache)
+cache = false
+
+# Follow symlink for asset mount (see https://github.com/Chainlit/chainlit/issues/317)
+ follow_symlink = true
+
+[features]
+# Show the prompt playground
+prompt_playground = true
+
+[UI]
+# Name of the app and chatbot.
+name = "ChatLede"
+custom_css = 'public/stylesheet.css'
+# Description of the app and chatbot. This is used for HTML tags.
+# description = ""
+
+# Large size content are by default collapsed for a cleaner ui
+default_collapse_content = true
+
+# The default value for the expand messages settings.
+default_expand_messages = false
+
+# Hide the chain of thought details from the user in the UI.
+hide_cot = false
+
+# Link to your github repo. This will add a github button in the UI's header.
+# github = ""
+
+# Override default MUI light theme. (Check theme.ts)
+[UI.theme.light]
+    background = "#FAFAFA"
+    paper = "#eb8c00"
+
+    [UI.theme.light.primary]
+        main = "#d93954"
+        dark = "#e0301e"
+        light = "#ffb600"
+
+# Override default MUI dark theme. (Check theme.ts)
+[UI.theme.dark]
+    background = "#2d2d2d"
+    paper = "#db536a"
+
+    [UI.theme.dark.primary]
+        main = "#d93954"
+        dark = "#eb8c00"
+        light = "#ffb600"
+
+
+[meta]
+generated_by = "0.7.0"

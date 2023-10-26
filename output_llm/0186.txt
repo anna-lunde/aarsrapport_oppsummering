@@ -1,0 +1,10 @@
+- Skagerak Energi AS has a long-term debt of 1,700,000
+- Skagerak Energi AS has a short-term debt of 266,784
+- Skagerak Energi AS has supplier debt of 1,242
+- Skagerak Energi AS has a subsidiary called Lede AS with no debt
+- Skagerak Energi AS has a subsidiary called Skagerak Kraft AS with a debt of 14
+- Skagerak Energi AS has a subsidiary called Skagerak Varme AS with a debt of 91
+- Skagerak Energi AS has a subsidiary called Skagerak Energitjenester AS with a debt of 8
+- Skagerak Energi AS has a relationship with Statkraft konsernet, with a long-term debt of 1,700,000
+- Skagerak Energi AS has a relationship with Laugstol AS, with a debt of 790
+- In 2021, Skagerak Energi AS had a total debt of 2,350,000, supplier debt of 1,262, and other short-term debt of 143,786

@@ -1,0 +1,6 @@
+- The text is a specification of temporary differences and the calculation of deferred tax assets and deferred tax liabilities as of the balance sheet date.
+- Deferred tax assets for the group Skagerak Energi AS increased from 204 652 to 211 153.
+- Deferred tax liabilities for the group Skagerak Energi AS increased from 12 258 to 12 463.
+- The balance sheet shows that deferred tax assets are recognized at full nominal value based on long-term projections of taxable profits.
+- Deferred tax assets and liabilities are calculated based on future earnings.
+- The balance sheet also includes deferred tax related to ground rent taxation, with a tax liability of 575 963 and a tax asset of 581 941.

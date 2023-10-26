@@ -1,0 +1,13 @@
+- The page is about Note 12 regarding intangible assets in 2022 for the company.
+- It shows the balance value per 1.1 and 31.12 for Goodwill and Other intangible assets.
+- There were no additions or disposals in 2022.
+- The acquisition cost and accumulated depreciation for the assets are also given.
+- Goodwill is related to the acquisition of network companies in Vestfold and the purchase of Hjartdal Elverk AS.
+- The underlying network operations are considered long-term.
+- The value of the assets is expected to have the same duration as the business itself.
+- The assets are considered likely to provide economic benefits and are therefore capitalized.
+- The portfolio of power trading customers was sold in 2021.
+- Immovable assets with undefined useful life are not depreciated but evaluated annually or when circumstances require.
+- Various assumptions are used in impairment assessments.
+- No impairment of goodwill was done in 2022.
+- A sensitivity analysis is provided for changes in expected excess return and discount rate.

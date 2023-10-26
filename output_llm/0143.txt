@@ -1,0 +1,14 @@
+- Skagerak has lease agreements for office, production spaces, land, and movable property
+- They apply the IFRS 16 Lease Agreements standard
+- Future lease payments are recognized as liabilities, and the right to use the leased asset is recognized as an asset
+- Depreciation of the right to use the leased asset and interest costs on lease obligations are recognized in the income statement
+- Lease obligations are revalued under certain circumstances, with any changes adjusted against the right to use the asset
+- Short-term leases and leases with low-value underlying assets are not recognized under IFRS 16.5
+- Financial instruments are recognized based on contractual conditions
+- Financial assets and liabilities are classified into categories based on their nature and purpose
+- Categories for Skagerak include financial contracts for energy-related products, interest rate swaps, and other financial instruments for trading purposes
+- Assets (debt instruments) are classified as amortized cost if the majority of cash flows are related to interest and principal payments and Skagerak intends to hold the instrument until maturity
+- Liabilities (debt instruments) are classified as amortized cost unless held for trading purposes
+- Derivatives are presented separately in the balance sheet under assets and liabilities
+- Derivatives with positive or negative fair values are presented gross in the balance sheet, unless there is a legal right to offset contracts and actual offsetting will occur in cash settlements
+- Changes in the fair value of energy derivatives are presented under operating income, while changes in the value of financial derivatives are presented under financial items.

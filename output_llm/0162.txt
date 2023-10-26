@@ -1,0 +1,12 @@
+- Transaksjoner med nærstående til Skagerak Energi konsern
+- Kraftsalgsinntekter fra ulike motparter inkludert Statkraft konsernet, Statnett konsernet, Å Energi konsernet, Eviny konsernet, Nape Kraft AS, og Air Liquide Skagerak AS
+- Nettinntekter fra Statkraft konsernet, Statnett konsernet, og Å Energi konsernet
+- Andre driftsinntekter fra Statkraft konsernet, Statnett konsernet, Nape Kraft AS, Laugstol AS, Å Energi konsernet, Eviny konsernet, Air Liquide Skagerak AS, og Isola Solar AS
+- Overføringskostnader fra Statkraft konsernet, Nape Kraft AS, Statnett konsernet, og Å Energi konsernet
+- Urealiserte verdiendringer i kraftkontrakter fra Statkraft konsernet
+- Netto driftsinntekter
+- Andre driftskostnader fra Statnett konsernet, Statkraft konsernet, Laugstol AS, Where2O AS, Air Liquide Skagerak AS, Eviny konsernet, og Å Energi konsernet
+- Finansinntekter fra Statkraft konsernet, Nape Kraftverk AS, Air Liquide Skagerak AS, Laugstol AS, Å Energi konsernet, Eviny konsernet, og Statnett konsernet
+- Finanskostnader fra Statkraft konsernet, Statnett konsernet, og Å Energi konsernet
+- Netto finansposter
+- Total sum of transactions for the year

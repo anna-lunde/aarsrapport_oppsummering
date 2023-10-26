@@ -1,0 +1,21 @@
+The text is a financial statement for Skagerak Energi AS in 2022.
+
+Finansinntekter (financial income) for 2022 are 88,707, while in 2021 it was 7,946.
+Konserninterne renteinntekter (intercompany interest income) in 2022 are 133,605, compared to 87,445 in 2021.
+Andre renteinntekter (other interest income) in 2022 are 22,896, while in 2021 it was only 503.
+Utbytte (dividends) in 2022 is 48, and in 2021 it was 46.
+Andre finansinntekter (other financial income) in 2022 are 1,184,921, compared to 30,259 in 2021.
+Finansinntekter (financial income) for the year 2022 sum up to 156,550, but in 2021 it was 88,002.
+
+Finanskostnader (financial expenses) for 2022 are -67,863, while in 2021 it was -89,956.
+Konserninterne rentekostnader (intercompany interest expenses) in 2022 are -68,220, compared to -90,877 in 2021.
+Andre rentekostnader (other interest expenses) in 2022 are -5,155, while in 2021 it was -4,905.
+Verdipapirer realilsert tap (realized losses on securities) in 2022 sum up to 0, but in 2021 it was 0.
+Andre finanskostnader (other financial expenses) in 2022 are -15, compared to -15 in 2021.
+Finanskostnader (financial expenses) for the year 2022 sum up to -73,390, but in 2021 it was -95,797.
+
+Urealisert verdiendring verdipapirer rente- og valutakontrakter (unrealized changes in value of securities, interest, and currency contracts) in 2022 is 5,591, compared to 5,132 in 2021.
+Rentebytteavtaler verdiendring (interest rate swap value change) in 2022 is 0, but in 2021 it was 0.
+The sum of these unrealized changes in value for 2022 is 40,684, compared to -107,711 in 2021.
+
+The overall sum for finances in 2022 is 83,160, while in 2021 it was -7,795.

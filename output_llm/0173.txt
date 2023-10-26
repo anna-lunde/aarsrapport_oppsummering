@@ -1,0 +1,8 @@
+- Skagerak Energy's financial instruments in 2022 and 2021 consist of energy derivatives, interest rate swaps, customer receivables, supplier debt, cash, short-term liquidity placements, equity instruments, and loans.
+- The value and fair value of these financial assets and liabilities are the same for all instruments except for long-term debt and the first year's installment on long-term debt.
+- Power contracts are valued using discounted year-end prices from power exchanges or expected future cash flows based on market price curves.
+- Interest rate swaps are valued using valuation techniques that discount expected future cash flows using observed market rates.
+- Shares and equity instruments are valued at listed prices for liquid securities or by discounting expected future cash flows for other securities.
+- The company classifies fair value measurements into three levels: Level 1 - unadjusted quoted prices in active markets, Level 2 - other observable data such as prices or derivatives of prices, and Level 3 - data that is not based on observable market data.
+- In 2022, the company had other financial assets valued at fair value over profit of 1,000, consisting of 1,000 in long-term shares and equity instruments.
+- In 2021, the company also had 1,000 in long-term shares and equity instruments valued at fair value over profit.
